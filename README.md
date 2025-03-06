@@ -14,6 +14,3 @@ This project showcases my skills, experience, and projects in web development, d
 ✔️ Projects Showcase with Live Links 🔗  
 ✔️ Contact Form for Inquiries 📧  
 
-## 🚀 Installation & Setup  
-git clone https://github.com/anurag-kharat/portfolio.git
-cd portfolio
